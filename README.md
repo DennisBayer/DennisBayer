@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **[fuzzygit](https://github.com/DennisBayer/fuzzygit)** in my spare time
 
-- 🌱 I’m currently learning **Bash, Linux, Kotlin**
+- 🌱 I’m currently learning **Bash, Linux, Kotlin and Gradle**
 
 - 💬 Ask me about **Java, JSF, REST, SOAP, Microprofile, AppServer, HTML, CSS, JS**
 
-- ⚡ Fun fact **No coffee, no code.**
+- ⚡ Fun fact **No caffeine, no code.**
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
