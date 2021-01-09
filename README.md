@@ -16,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisbayer&layout=compact&hide=html" alt="dennisbayer" />
 </p>
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=dennisbayer&show_icons=true" alt="dennisbayer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dennisbayer&show_icons=true&count_private=true" alt="dennisbayer" />
 </p>
 
 <p align="center">
