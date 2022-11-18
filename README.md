@@ -21,10 +21,13 @@
 
 <p align="center">
   <a href="https://twitter.com/dennisbayer" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dennisbayer" height="30" width="30" />
+    <img src="twitter.svg" alt="dennisbayer" height="30" width="30" />
   </a>
   <a href="https://stackoverflow.com/users/dennisbayer" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dennisbayer" height="30" width="30" />
+    <img src="stackoverflow.svg" alt="dennisbayer" height="30" width="30" />
+  </a>
+  <a rel="me" href="https://mastodon.online/@dennisbayer" target="blank">
+    <img src="mastodon.svg" alt="dennisbayer" height="30" width="30" />
   </a>
 </p>
 
