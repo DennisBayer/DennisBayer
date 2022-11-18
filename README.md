@@ -20,15 +20,9 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/dennisbayer" target="blank">
-    <img src="twitter.svg" alt="dennisbayer" height="30" width="30" />
-  </a>
-  <a href="https://stackoverflow.com/users/dennisbayer" target="blank">
-    <img src="stackoverflow.svg" alt="dennisbayer" height="30" width="30" />
-  </a>
-  <a rel="me" href="https://mastodon.online/@dennisbayer" target="blank">
-    <img src="mastodon.svg" alt="dennisbayer" height="30" width="30" />
-  </a>
+  <a href="https://twitter.com/dennisbayer" target="_blank"><img src="twitter.svg" alt="dennisbayer" height="30" width="30" /></a>&nbsp;
+  <a href="https://stackoverflow.com/users/dennisbayer" target="_blank"><img src="stackoverflow.svg" alt="dennisbayer" height="30" width="30" /></a>&nbsp;
+  <a rel="me" href="https://mastodon.online/@dennisbayer" target="_blank"><img src="mastodon.svg" alt="dennisbayer" height="30" width="30" /></a>
 </p>
 
 <!--
